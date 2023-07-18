@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap';
+
+footer{
+    background: url('../img/dc-logo-bg.png') right center no-repeat, url('../img/footer-bg.jpg') center center no-repeat;
+    color: #fff;
+    background-size: 35% auto, cover;
+    background-position: 90%, 100%;
+    background-repeat: no-repeat, no-repeat;
+  
+      .nav-link{
+        color: #746e60!important;
+      }
+  }
