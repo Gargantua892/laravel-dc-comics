@@ -11,31 +11,31 @@
 
             <label for="title">Title</label>
             <br>
-            <input type="text" name="title" id="title">
+            <input type="text" name="title" id="title" value="title">
             <br>
             <label for="description">Description</label>
             <br>
-            <input type="text" name="description" id="description">
+            <input type="text" name="description" id="description" value="description">
             <br>
             <label for="thumb">Thumb</label>
             <br>
-            <input type="text" name="thumb" id="thumb">
+            <input type="text" name="thumb" id="thumb" value="thumb">
             <br>
             <label for="price">Price</label>
             <br>
-            <input type="text" name="price" id="price">
+            <input type="text" name="price" id="price" value="price">
             <br>
             <label for="series">Series</label>
             <br>
-            <input type="text" name="series" id="series">
+            <input type="text" name="series" id="series" value="series">
             <br>
             <label for="sale_date">Sale Date</label>
             <br>
-            <input type="date" name="sale_date" id="sale_date">
+            <input type="date" name="sale_date" id="sale_date" value="sale_date">
             <br>
             <label for="type">Type</label>
             <br>
-            <input type="text" name="type" id="type">
+            <input type="text" name="type" id="type" value="type">
             <br>
 
             <input class="mt-4 px-5 rounded" type="submit" value="CREATE">
