@@ -20,6 +20,7 @@
                     <div class="card-body">
                         <h5 class="card-title">{{ $comic -> title }}</h5>
                         <a href="{{ route('show', $comic -> id) }}" class="btn btn-primary">Vai al fumetto</a>
+                        <a href="{{ route('edit', $comic -> id)}}">Modifica</a>
                     </div>
                 </div>
             </div>
